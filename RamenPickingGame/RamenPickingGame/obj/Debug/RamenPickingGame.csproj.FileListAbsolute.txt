@@ -1,0 +1,8 @@
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\bin\Debug\RamenPickingGame.exe.config
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\bin\Debug\RamenPickingGame.exe
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\bin\Debug\RamenPickingGame.pdb
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\obj\Debug\RamenPickingGame.csproj.AssemblyReference.cache
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\obj\Debug\RamenPickingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\obj\Debug\RamenPickingGame.csproj.CoreCompileInputs.cache
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\obj\Debug\RamenPickingGame.exe
+C:\Users\apk13\source\repos\RamenPickingGame\RamenPickingGame\obj\Debug\RamenPickingGame.pdb
